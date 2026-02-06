@@ -64,4 +64,3 @@ Hybrid recommendation systems help overcome common limitations such as:
 
 ---
 
-## 📂 Project Structure
